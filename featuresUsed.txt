@@ -1,0 +1,10 @@
+﻿1. Residence (good) : 16
+2. Residence (bad) : 17
+3. Residence-cum-other-use (good) : 20
+4. Residence-cum-other-use (livable) : 21
+5. One room : 50; two room : 51; three room : 52; four room : 53; five room : 54; >=6 : 55
+6. Tap water from treated : 72
+7. Main source of electricity (lighting) : 85
+8. Latrine facilities : 91
+9. Assets (TV) : 129; Bicycle : 136; Car : 137
+10. Permanent houses : 140
